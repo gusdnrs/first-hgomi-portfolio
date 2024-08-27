@@ -1,3 +1,40 @@
+html {
+  background-color: #cccccc;
+}
+
+body {
+  position: relative;
+}
+
+.bg-box {
+  width: 100vw;
+  height: 100vh;
+}
+.bg-box1 {
+  background-color: rgb(199, 137, 232);
+}
+.bg-box2 {
+  background-color: rgb(4, 18, 177);
+}
+.bg-box3 {
+  background-color: rgb(234, 149, 195);
+}
+.bg-box4 {
+  background-color: rgb(180, 37, 230);
+}
+.bg-box5 {
+  background-color: rgb(231, 122, 235);
+}
+.bg-box6 {
+  background-color: rgb(216, 25, 1);
+}
+.bg-box7 {
+  background-color: rgb(39, 95, 215);
+}
+.bg-box8 {
+  background-color: rgb(43, 11, 39);
+}
+
 .box {
   width: 200px;
   line-height: 200px;
